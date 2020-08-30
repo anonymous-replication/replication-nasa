@@ -41,3 +41,4 @@ Our implementation of XGBoost using the random space of features is available un
 python3 src/exploration.py data/processed/CM1-processed.csv
 ```
 
+In this version, we serialize each model in a file called **models.pkl**.
