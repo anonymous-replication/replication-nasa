@@ -31,7 +31,7 @@ This folder contains the raw data of the nine NASA projects.
 
 <h5>2.2) Processed Data</h5>
 
-This folder contains the processed data of the nine NASA projects.
+This folder contains the processed data of the nine NASA projects. We came up with this version after properly data cleaning, feature importance analysis, and correlation.
 
 <h4>3) RS-XGB</h4>
 
